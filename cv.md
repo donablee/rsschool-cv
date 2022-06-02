@@ -23,10 +23,10 @@
 
 Code was with the problem: 
 
-'functional multiply (a, b) {a * b}' 
+`functional multiply (a, b) {a * b}` 
 
 The correct code became:
 
-'functional multiply (a, b) {return a * b}'
+`functional multiply (a, b) {return a * b}`
 
 ***My projects:*** My first project was compiling the SV through GitHub
