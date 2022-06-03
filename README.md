@@ -1,1 +1,1 @@
-# rsschool-cv
+https://donablee.github.io/rsschool-cv/
